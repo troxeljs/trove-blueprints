@@ -1,0 +1,24 @@
+language: node_js
+node_js: '5'
+sudo: false
+
+branches:
+  only:
+    - /^20\d\d-\d\d-\d\d$/
+
+script: npm run build
+
+before_deploy:
+  - git config --global user.name "Christian Moritz"
+  - git config --global user.email "chrmoritz@users.noreply.github.com"
+
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: npm run deploy
+  on:
+    tags: true
+
+cache:
+  directories:
+    - node_modules

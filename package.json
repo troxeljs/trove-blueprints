@@ -1,0 +1,37 @@
+{
+  "name": "troxel-trove-blueprints",
+  "version": "1.0.0",
+  "description": "Voxel data imported from the game Trove for displaying in the WebGL-based voxel viewer Troxel",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build",
+    "deploy": "gulp deploy",
+    "rebaseTags": "gulp rebaseTags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troxeljs/trove-blueprints.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "Christian Moritz",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/troxeljs/trove-blueprints/issues"
+  },
+  "homepage": "https://github.com/troxeljs/trove-blueprints#readme",
+  "devDependencies": {
+    "Troxel": "github:chrmoritz/troxel",
+    "ansi": "^0.3.1",
+    "async": "^1.5.2",
+    "del": "^2.2.0",
+    "graceful-fs": "^4.1.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-git": "^1.6.1",
+    "gulplog": "^1.0.0",
+    "json-stable-stringify": "^1.0.0",
+    "merge-stream": "^1.0.0",
+    "replacestream": "^4.0.0"
+  }
+}
