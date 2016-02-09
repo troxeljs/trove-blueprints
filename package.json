@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/troxeljs/trove-blueprints#readme",
   "devDependencies": {
-    "Troxel": "github:chrmoritz/troxel",
+    "troxel": "github:chrmoritz/troxel",
     "ansi": "^0.3.1",
     "async": "^1.5.2",
     "del": "^2.2.0",
