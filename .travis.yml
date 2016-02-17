@@ -18,7 +18,3 @@ deploy:
   script: npm run deploy
   on:
     tags: true
-
-cache:
-  directories:
-    - node_modules
