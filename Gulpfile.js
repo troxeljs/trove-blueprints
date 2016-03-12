@@ -17,6 +17,7 @@ const async = require('async');
 
 let trovedir, devtool, repo;
 let models = {};
+let modelAPs = {};
 let changedFiles = [];
 if (process.platform === 'darwin') {
   trovedir = '/Applications/Trion Games/Trove-Live.app/Contents/Resources/Trove.app/Contents/Resources';
@@ -117,6 +118,7 @@ function getChangedBps(){
   }).then(function(bps){
     log.info(`comparing sha256 hashes of ${bps.length} blueprints to determine changed ones...`);
     let oldSha256 = require(`${repo}/Trove_sha256.json`);
+    let oldAPs = require(`${repo}/Trove_ap.json`);
     let oldModels = require(`${repo}/Trove.json`)
     let newSha256 = {};
     let promises = [];
@@ -129,6 +131,7 @@ function getChangedBps(){
             let exp = f.substring(0, f.length - 10);
             if ((oldSha256[f] != null) && oldSha256[f] === newSha256[f] && (oldModels[exp] != null)) {
               models[exp] = oldModels[exp];
+              if (oldAPs[exp]) modelAPs[exp] = oldAPs[exp];
             } else {
               changedFiles.push(f);
             }
@@ -185,7 +188,17 @@ function importBps(callback){
         return cb();
       }
       let qbf = 'qbexport/' + exp;
-      let io = new troxel.QubicleIO({m: qbf + '.qb', a: qbf + '_a.qb', t: qbf + '_t.qb', s: qbf + '_s.qb'}, () => {
+      let io = new troxel.QubicleIO({m: qbf + '.qb', a: qbf + '_a.qb', t: qbf + '_t.qb', s: qbf + '_s.qb'}, (APpos) => {
+        if (APpos){
+          let ap = io.getAttachmentPoint();
+          if (ap[0] !== APpos[0] ||ap[1] !== APpos[1] || ap[2] !== APpos[2]){
+            modelAPs[exp] = APpos;
+            if (ap[0] !== 0 || ap[1] !== 0 || ap[2] !== 0){
+              cursor.write(`Warn in §{f}: APpos from qb meta data does not match real AP!\n`);
+              io.warn.push('APpos from qb meta data does not match real attachment point!');
+            }
+          }
+        }
         let bb = io.computeBoundingBox();
         io.resize(bb[0], bb[1], bb[2], bb[3], bb[4], bb[5]);
         models[exp] = new troxel.Base64IO(io)["export"](true, 2);
@@ -209,6 +222,10 @@ function importBps(callback){
       if (err) return callback(err);
       log.info(`base64 data of ${Object.keys(models).length} (${changedFiles.length} new) blueprints successfully written to ${repo}/Trove.json`);
       callback();
+    });
+    fs.writeFile(`${repo}/Trove_ap.json`, stringify(modelAPs, {space: '  '}), (err) => {
+      if (err) return callback(err);
+      log.info(`AP data of ${Object.keys(modelAPs).length} blueprints successfully written to ${repo}/Trove_ap.json`);
     });
     console.log = clog;
   };
@@ -284,6 +301,9 @@ function buildTagsJSON(){
     const gs = child_process.spawn('git', ['show', `${tag}:Trove.json`]);
     gs.stdout.pipe(replaceStream(/\s/g, '')).pipe(fs.createWriteStream(`dist/${tag}.json`));
     merged.add(gs.stdout);
+    const gsap = child_process.spawn('git', ['show', `${tag}:Trove_ap.json`]);
+    gsap.stdout.pipe(replaceStream(/\s/g, '')).pipe(fs.createWriteStream(`dist/${tag}_ap.json`));
+    merged.add(gsap.stdout);
   }
   return merged;
 }
