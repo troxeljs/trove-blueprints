@@ -22,16 +22,17 @@
   },
   "homepage": "https://github.com/troxeljs/trove-blueprints#readme",
   "devDependencies": {
-    "troxel": "github:chrmoritz/troxel",
     "ansi": "^0.3.1",
-    "async": "^1.5.2",
+    "bluebird": "^3.3.4",
     "del": "^2.2.0",
     "graceful-fs": "^4.1.2",
     "gulp": "github:gulpjs/gulp#4.0",
-    "gulp-git": "^1.6.1",
+    "gulp-git": "^1.7.0",
     "gulplog": "^1.0.0",
     "json-stable-stringify": "^1.0.0",
     "merge-stream": "^1.0.0",
-    "replacestream": "^4.0.0"
+    "minimist": "^1.2.0",
+    "replacestream": "^4.0.0",
+    "troxel": "github:chrmoritz/troxel"
   }
 }
