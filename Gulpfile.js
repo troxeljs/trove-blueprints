@@ -27,6 +27,7 @@ else {
 }
 const argv = require('minimist')(process.argv.slice(2)); // gulp --trovedir="<path to Trove>" -ewa to reimpoirt errored / warned / all bps
 if (argv.trovedir) trovedir = argv.trovedir;
+const jobs = argv.j || 2 * require('os').cpus().length;
 
 let rl;
 let join;
@@ -209,7 +210,7 @@ function importBps(callback){
   return Promise.map(changedFiles, (f, i, len) => {
     let exp = f.substring(0, f.length - 10);
     return importBp(f, exp, len);
-  }, {concurrency: 2 * require('os').cpus().length}).then(() => {
+  }, {concurrency: jobs}).then(() => {
     if (failedBlueprints.length > 0) {
       cursor.write(`\nretrying ${failedBlueprints.length} broken blueprints in series:\n\n\n`);
       processed = 0;
