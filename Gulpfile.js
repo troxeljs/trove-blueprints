@@ -139,7 +139,7 @@ function getChangedBps(){
   });
 }
 
-function importBps(callback){
+function importBps(){
   let failedBlueprints = [];
   let processed = 0;
   const clog = console.log;
