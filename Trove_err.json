@@ -3,6 +3,8 @@
     "deco_trophy_boot_shadow_ui.blueprint"
   ],
   "warn": [
+    "c_mt_griffon_head.blueprint",
+    "c_mt_horse_centaur_skelletaur_head.blueprint",
     "c_p_candybarbarian_front_skirt.blueprint",
     "c_p_candybarbarian_hips.blueprint",
     "c_p_candybarbarian_licorice_torso.blueprint",
@@ -34,6 +36,7 @@
     "dungeon_room_6_frost.blueprint",
     "e_a2_n_tower_01.blueprint",
     "e_a2_n_tower_02.blueprint",
+    "e_a2_pit_aircurrent.blueprint",
     "e_dragon_lava_pool_01.blueprint",
     "e_dragon_lava_pool_02.blueprint",
     "e_dragon_lava_pool_03.blueprint",

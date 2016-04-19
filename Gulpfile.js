@@ -85,7 +85,10 @@ function extractBlueprints(){
   log.info('extracting 2 blueprint archives (could take a minute)...');
   return Promise.map(['blueprints', 'blueprints/equipment/ring'], (archive) => {
     return child_process.execFileAsync(devtool, ['-tool', 'extractarchive', archive, 'bpexport'], {timeout: 60000}).catch((err) => {
-      if (err.killed || err.signal != null || err.code !== 1) return Promise.reject(new Error(`failed to extract archive: ${archive}`));
+      if (err.killed || err.signal != null || err.code !== 1) {
+        log.error(err);
+        return Promise.reject(new Error(`failed to extract archive: ${archive}`));
+      }
     }).then(() => log.info(`archive ${archive} sucessfully extracted!`));
   });
 }

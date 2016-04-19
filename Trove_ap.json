@@ -654,11 +654,6 @@
     11,
     4
   ],
-  "c_c_dog_radar_ui": [
-    4,
-    17,
-    12
-  ],
   "c_c_dragon_baby_beard_ui": [
     8,
     13,
@@ -1464,6 +1459,16 @@
     5,
     3
   ],
+  "c_mt_boat_dinghy_dragon": [
+    23,
+    73,
+    39
+  ],
+  "c_mt_boat_dinghy_dragon_ui[stedms]": [
+    23,
+    73,
+    39
+  ],
   "c_mt_boat_sail_bee_ui": [
     23,
     47,
@@ -1543,6 +1548,11 @@
     23,
     47,
     1
+  ],
+  "c_mt_boat_small_dragon_ui[milambit]": [
+    10,
+    85,
+    22
   ],
   "c_mt_boat_small_starter": [
     23,
@@ -1759,6 +1769,11 @@
     1,
     23
   ],
+  "c_mt_dragon_gemred_ui": [
+    6,
+    15,
+    5
+  ],
   "c_mt_dragon_mastery_jaw": [
     2,
     3,
@@ -1799,6 +1814,11 @@
     13,
     8
   ],
+  "c_mt_dragonlong_gemblue_ui": [
+    6,
+    13,
+    7
+  ],
   "c_mt_horse_centaur_contest_hind_t": [
     6,
     16,
@@ -1808,6 +1828,51 @@
     10,
     43,
     18
+  ],
+  "c_mt_horse_centaur_paladin_shoulder_l": [
+    2,
+    5,
+    3
+  ],
+  "c_mt_horse_centaur_paladin_shoulder_r": [
+    2,
+    5,
+    3
+  ],
+  "c_mt_horse_centaur_skelletaur_head": [
+    7,
+    9,
+    4
+  ],
+  "c_mt_horse_centaur_skelletaur_head_t": [
+    7,
+    9,
+    4
+  ],
+  "c_mt_horse_centaur_skelletaur_hind_t_a": [
+    6,
+    32,
+    13
+  ],
+  "c_mt_horse_centaur_skelletaur_hind_t_s": [
+    6,
+    32,
+    13
+  ],
+  "c_mt_horse_centaur_skelletaur_hind_t_t": [
+    6,
+    32,
+    13
+  ],
+  "c_mt_horse_centaur_skelletaur_torso": [
+    4,
+    3,
+    4
+  ],
+  "c_mt_horse_centaur_skelletaur_ui[zoe]": [
+    7,
+    9,
+    4
   ],
   "c_mt_horse_cinnamel_head": [
     3,
@@ -1823,6 +1888,26 @@
     4,
     9,
     2
+  ],
+  "c_mt_horse_sheep_cursedvale_tail": [
+    1,
+    4,
+    6
+  ],
+  "c_mt_horse_sheep_cursedvale_ui[taux]": [
+    11,
+    22,
+    16
+  ],
+  "c_mt_horse_sheep_everdark_neck": [
+    10,
+    21,
+    18
+  ],
+  "c_mt_horse_sheep_everdark_ui[milambit]": [
+    10,
+    21,
+    18
   ],
   "c_mt_horse_snowfest_ui": [
     6,
@@ -2348,6 +2433,11 @@
     4,
     15,
     11
+  ],
+  "c_p_adventurer_basic_bawkbomb": [
+    8,
+    19,
+    9
   ],
   "c_p_adventurer_basic_gem": [
     3,
@@ -3719,6 +3809,11 @@
     55,
     2
   ],
+  "c_p_ice_mage_mermaid_ui[zoe]": [
+    8,
+    16,
+    5
+  ],
   "c_p_ice_mage_molten_ui": [
     9,
     20,
@@ -3829,6 +3924,11 @@
     26,
     3
   ],
+  "c_p_lunarlancer_darkreflection_head": [
+    9,
+    15,
+    9
+  ],
   "c_p_lunarlancer_draccoon_ui[destral]": [
     12,
     25,
@@ -3842,7 +3942,7 @@
   "c_p_lunarlancer_duskrider_ui[chellean]": [
     12,
     24,
-    9
+    4
   ],
   "c_p_lunarlancer_ghook_closed": [
     3,
@@ -3877,7 +3977,7 @@
   "c_p_lunarlancer_monkeyking_ui": [
     12,
     26,
-    9
+    4
   ],
   "c_p_lunarlancer_moonsilver_head": [
     8,
@@ -4137,6 +4237,21 @@
   "c_p_spirit_tank_spectre_basic_jaw": [
     3,
     1,
+    2
+  ],
+  "c_p_tomb_raiser_banshee_basic_cape": [
+    8,
+    4,
+    5
+  ],
+  "c_p_tomb_raiser_banshee_basic_head": [
+    4,
+    11,
+    6
+  ],
+  "c_p_tomb_raiser_banshee_basic_jaw": [
+    3,
+    2,
     2
   ],
   "c_p_tombraiser_acid_ui": [
@@ -9504,6 +9619,11 @@
     15,
     23
   ],
+  "e_shadow_pebbles_01": [
+    5,
+    1,
+    6
+  ],
   "e_tutorial_bulb_plant": [
     5,
     11,
@@ -11859,6 +11979,311 @@
     14,
     7
   ],
+  "equipment_gem_large_blue_01_boomeranger": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_candybarbarian": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_chloromancer": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_dracolyte": [
+    6,
+    13,
+    5
+  ],
+  "equipment_gem_large_blue_01_faetrickster": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_generic": [
+    6,
+    13,
+    3
+  ],
+  "equipment_gem_large_blue_01_gunslinger": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_icesage": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_knight": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_lunarlancer": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_neonninja": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_pirate": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_revenant": [
+    6,
+    13,
+    5
+  ],
+  "equipment_gem_large_blue_01_shadowhunter": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_blue_01_tombraiser": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_boomeranger": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_candybarbarian": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_chloromancer": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_dracolyte": [
+    6,
+    13,
+    5
+  ],
+  "equipment_gem_large_colorless_01_faetrickster": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_generic": [
+    6,
+    13,
+    3
+  ],
+  "equipment_gem_large_colorless_01_gunslinger": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_icesage": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_knight": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_lunarlancer": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_neonninja": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_pirate": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_revenant": [
+    6,
+    13,
+    5
+  ],
+  "equipment_gem_large_colorless_01_shadowhunter": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_colorless_01_tombraiser": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_boomeranger": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_candybarbarian": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_chloromancer": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_dracolyte": [
+    6,
+    13,
+    5
+  ],
+  "equipment_gem_large_red_01_faetrickster": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_generic": [
+    6,
+    13,
+    3
+  ],
+  "equipment_gem_large_red_01_gunslinger": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_icesage": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_knight": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_lunarlancer": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_neonninja": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_pirate": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_revenant": [
+    6,
+    13,
+    5
+  ],
+  "equipment_gem_large_red_01_shadowhunter": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_red_01_tombraiser": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_boomeranger": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_candybarbarian": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_chloromancer": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_dracolyte": [
+    6,
+    13,
+    5
+  ],
+  "equipment_gem_large_yellow_01_faetrickster": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_generic": [
+    6,
+    13,
+    3
+  ],
+  "equipment_gem_large_yellow_01_gunslinger": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_icesage": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_knight": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_lunarlancer": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_neonninja": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_pirate": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_revenant": [
+    6,
+    13,
+    5
+  ],
+  "equipment_gem_large_yellow_01_shadowhunter": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_large_yellow_01_tombraiser": [
+    6,
+    13,
+    4
+  ],
+  "equipment_gem_mask_ruined": [
+    7,
+    14,
+    7
+  ],
   "equipment_gem_small_blue_01": [
     3,
     13,
@@ -11874,7 +12299,17 @@
     13,
     4
   ],
-  "equipment_gem_small_blue_04": [
+  "equipment_gem_small_colorless_01": [
+    3,
+    13,
+    3
+  ],
+  "equipment_gem_small_colorless_02": [
+    4,
+    13,
+    4
+  ],
+  "equipment_gem_small_colorless_03": [
     4,
     13,
     4
@@ -11894,11 +12329,6 @@
     13,
     4
   ],
-  "equipment_gem_small_green_04": [
-    4,
-    13,
-    4
-  ],
   "equipment_gem_small_red_01": [
     3,
     13,
@@ -11914,11 +12344,6 @@
     13,
     4
   ],
-  "equipment_gem_small_red_04": [
-    4,
-    13,
-    4
-  ],
   "equipment_gem_small_yellow_01": [
     3,
     13,
@@ -11930,11 +12355,6 @@
     4
   ],
   "equipment_gem_small_yellow_03": [
-    4,
-    13,
-    4
-  ],
-  "equipment_gem_small_yellow_04": [
     4,
     13,
     4
@@ -14374,6 +14794,11 @@
     14,
     6
   ],
+  "equipment_helm_sprinkles[krockus]": [
+    8,
+    21,
+    17
+  ],
   "equipment_helm_thanksgiving_centurion": [
     7,
     13,
@@ -15769,6 +16194,31 @@
     13,
     7
   ],
+  "item_aura_stellar_electric_01": [
+    7,
+    14,
+    5
+  ],
+  "item_aura_stellar_fire_01": [
+    6,
+    14,
+    5
+  ],
+  "item_aura_stellar_glow_01": [
+    7,
+    14,
+    5
+  ],
+  "item_aura_stellar_snowflake_01": [
+    7,
+    14,
+    5
+  ],
+  "item_aura_stellar_space_01": [
+    7,
+    14,
+    5
+  ],
   "item_aura_tentacle_01": [
     7,
     13,
@@ -15863,6 +16313,61 @@
     12,
     20,
     12
+  ],
+  "item_box_gem_all_01": [
+    12,
+    20,
+    11
+  ],
+  "item_box_gem_all_02": [
+    12,
+    20,
+    11
+  ],
+  "item_box_gem_all_03": [
+    12,
+    20,
+    11
+  ],
+  "item_box_gem_all_04": [
+    12,
+    21,
+    11
+  ],
+  "item_box_gem_all_05": [
+    12,
+    22,
+    11
+  ],
+  "item_box_gem_blue_01": [
+    12,
+    20,
+    11
+  ],
+  "item_box_gem_blue_02": [
+    12,
+    20,
+    11
+  ],
+  "item_box_gem_red_01": [
+    12,
+    20,
+    11
+  ],
+  "item_box_gem_red_02": [
+    12,
+    20,
+    11
+  ],
+  "item_box_gem_yellow_01": [
+    12,
+    20,
+    11
+  ],
+  "item_box_gem_yellow_02": [
+    12,
+    20,
+    11
   ],
   "item_box_gold": [
     12,
@@ -16044,6 +16549,11 @@
     11,
     3
   ],
+  "item_crafting_shadowkey_ultra_fragment": [
+    4,
+    12,
+    1
+  ],
   "item_crafting_shadowshard": [
     3,
     13,
@@ -16163,6 +16673,16 @@
     4,
     14,
     4
+  ],
+  "item_gem_booster_02": [
+    7,
+    14,
+    3
+  ],
+  "item_gem_booster_03": [
+    7,
+    14,
+    7
   ],
   "item_key_adventure_adept": [
     3,
