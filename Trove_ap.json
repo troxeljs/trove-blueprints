@@ -1329,6 +1329,11 @@
     8,
     13
   ],
+  "c_m_turret_rocket_projectile": [
+    10,
+    20,
+    19
+  ],
   "c_m_warstrider_head": [
     4,
     8,
@@ -14934,6 +14939,11 @@
     18,
     7
   ],
+  "equipment_tome_box_gem_empowered_legendary": [
+    6,
+    14,
+    7
+  ],
   "equipment_tome_chaoschest": [
     6,
     10,
@@ -14968,6 +14978,21 @@
     6,
     8,
     8
+  ],
+  "equipment_tome_gemdust_blue_legendary": [
+    6,
+    14,
+    7
+  ],
+  "equipment_tome_gemdust_red_legendary": [
+    6,
+    14,
+    7
+  ],
+  "equipment_tome_gemdust_yellow_legendary": [
+    6,
+    14,
+    7
   ],
   "equipment_tome_glim": [
     6,
