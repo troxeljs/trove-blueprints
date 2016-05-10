@@ -1124,6 +1124,11 @@
     0,
     2
   ],
+  "c_m_lobber_whirlpool_cannon": [
+    14,
+    43,
+    14
+  ],
   "c_m_mimic_eyes": [
     5,
     5,
@@ -1328,6 +1333,11 @@
     8,
     8,
     13
+  ],
+  "c_m_turret_grapple_projectile": [
+    9,
+    18,
+    20
   ],
   "c_m_turret_rocket_projectile": [
     10,
@@ -14937,6 +14947,11 @@
   "equipment_tome_bigbomb_legendary": [
     6,
     18,
+    7
+  ],
+  "equipment_tome_booster_jadeclover_legendary": [
+    6,
+    8,
     7
   ],
   "equipment_tome_box_gem_empowered_legendary": [

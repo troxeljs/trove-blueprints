@@ -3,8 +3,6 @@
     "deco_trophy_boot_shadow_ui.blueprint"
   ],
   "warn": [
-    "c_mt_griffon_head.blueprint",
-    "c_mt_horse_centaur_skelletaur_head.blueprint",
     "c_p_candybarbarian_front_skirt.blueprint",
     "c_p_candybarbarian_hips.blueprint",
     "c_p_candybarbarian_licorice_torso.blueprint",
@@ -79,8 +77,8 @@
     "f_castle_wall_torch_01.blueprint",
     "f_castle_wall_window_01.blueprint",
     "f_castle_wall_window_02.blueprint",
+    "gm_prop_dungeon_playerspawn.blueprint",
     "gm_prop_dungeon_questteleporteroutside.blueprint",
     "trackboost.blueprint"
-    "equipment_hat_xmasraptorbeanie[aviarei].blueprint"
   ]
 }
