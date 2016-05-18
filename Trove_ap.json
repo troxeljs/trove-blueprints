@@ -1769,6 +1769,11 @@
     5,
     3
   ],
+  "c_mt_dragon_choko_ui[teekaym]": [
+    5,
+    14,
+    5
+  ],
   "c_mt_dragon_cupcake_jaw": [
     3,
     3,
@@ -1799,6 +1804,21 @@
     3,
     11
   ],
+  "c_mt_dragon_mechshadow_ui[curtharv]": [
+    6,
+    10,
+    9
+  ],
+  "c_mt_dragon_mechshadow_wing_l_02": [
+    20,
+    2,
+    14
+  ],
+  "c_mt_dragon_mechshadow_wing_r_02": [
+    20,
+    2,
+    14
+  ],
   "c_mt_dragon_music_wing_l_02": [
     19,
     3,
@@ -1808,6 +1828,11 @@
     19,
     3,
     20
+  ],
+  "c_mt_dragon_pirate_ui[skyrider3217]": [
+    7,
+    13,
+    7
   ],
   "c_mt_dragon_shadow_jaw": [
     4,
