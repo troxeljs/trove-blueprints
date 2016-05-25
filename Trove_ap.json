@@ -1789,10 +1789,35 @@
     1,
     23
   ],
+  "c_mt_dragon_deepsea_body_07": [
+    9,
+    3,
+    28
+  ],
   "c_mt_dragon_gemred_ui": [
     6,
     15,
     5
+  ],
+  "c_mt_dragon_infineon_wing_l_01": [
+    19,
+    2,
+    10
+  ],
+  "c_mt_dragon_infineon_wing_l_02": [
+    16,
+    2,
+    30
+  ],
+  "c_mt_dragon_infineon_wing_r_01": [
+    19,
+    2,
+    10
+  ],
+  "c_mt_dragon_infineon_wing_r_02": [
+    16,
+    2,
+    30
   ],
   "c_mt_dragon_mastery_jaw": [
     2,
@@ -1803,6 +1828,11 @@
     3,
     3,
     11
+  ],
+  "c_mt_dragon_mechshadow_projectile": [
+    4,
+    8,
+    9
   ],
   "c_mt_dragon_mechshadow_ui[curtharv]": [
     6,
@@ -1828,6 +1858,11 @@
     19,
     3,
     20
+  ],
+  "c_mt_dragon_pinata_ui[aviarei]": [
+    5,
+    12,
+    9
   ],
   "c_mt_dragon_pirate_ui[skyrider3217]": [
     7,
@@ -2018,6 +2053,11 @@
     9,
     13,
     18
+  ],
+  "c_mt_platypus_fae_ui[qoaleth]": [
+    6,
+    7,
+    6
   ],
   "c_mt_pwny_broomstick_body": [
     4,
