@@ -1884,6 +1884,26 @@
     3,
     6
   ],
+  "c_mt_dragon_toyblock_body_07": [
+    6,
+    7,
+    10
+  ],
+  "c_mt_dragon_toyblock_ui[novusnx]": [
+    8,
+    10,
+    6
+  ],
+  "c_mt_dragon_toyblock_wing_l_02": [
+    19,
+    2,
+    21
+  ],
+  "c_mt_dragon_toyblock_wing_r_02": [
+    19,
+    2,
+    21
+  ],
   "c_mt_dragonlong_cny2016_ui": [
     6,
     13,
@@ -1950,6 +1970,11 @@
     4
   ],
   "c_mt_horse_cinnamel_head": [
+    3,
+    9,
+    13
+  ],
+  "c_mt_horse_cinnamel_head[friedsushi]": [
     3,
     9,
     13
@@ -2678,6 +2703,11 @@
     4,
     3,
     1
+  ],
+  "c_p_dinotamer_lvl1_satchel_strap": [
+    6,
+    1,
+    4
   ],
   "c_p_dracolyte_balefire_ui": [
     8,
@@ -16813,6 +16843,11 @@
     3,
     13,
     2
+  ],
+  "item_key_gem_fragment": [
+    6,
+    20,
+    4
   ],
   "item_key_gold": [
     7,
