@@ -184,6 +184,11 @@ function importBps(){
           }
           let bb = io.computeBoundingBox();
           io.resize(bb[0], bb[1], bb[2], bb[3], bb[4], bb[5]);
+          if (modelAPs[exp] && (bb[3] !== 0 || bb[4] !== 0 || bb[5] !== 0)){
+            modelAPs[exp][0] -= bb[3];
+            modelAPs[exp][1] -= bb[4];
+            modelAPs[exp][2] -= bb[5];
+          }
           models[exp] = new Base64IO(io).export(true, 2);
           if (io.warn.length > 0) brokenBps.warn.push(f);
           return ["imported: " + f, false, io.warn.length > 0];
