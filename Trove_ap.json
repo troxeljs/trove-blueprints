@@ -1334,6 +1334,11 @@
     0,
     0
   ],
+  "c_m_trog_dino_loincloth_b": [
+    4,
+    2,
+    0
+  ],
   "c_m_turret_grapple_projectile": [
     9,
     0,
@@ -1721,8 +1726,8 @@
   ],
   "c_mt_cycle_darkrider_arms": [
     5,
-    -2,
-    0
+    0,
+    4
   ],
   "c_mt_cycle_unicycle_arms": [
     5,
@@ -9389,6 +9394,21 @@
     0,
     11
   ],
+  "e_dino_canopy_grass_02": [
+    5,
+    0,
+    5
+  ],
+  "e_dino_canopy_grass_03": [
+    4,
+    0,
+    5
+  ],
+  "e_dino_forest_clutter_leaves_01": [
+    5,
+    0,
+    6
+  ],
   "e_dragon_bush_01": [
     5,
     0,
@@ -16548,6 +16568,11 @@
     5,
     -2,
     6
+  ],
+  "item_club_rename": [
+    7,
+    -1,
+    1
   ],
   "item_clubcard": [
     6,
