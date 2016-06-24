@@ -1024,6 +1024,16 @@
     0,
     3
   ],
+  "c_m_dragonfly_jade_wing_l_02": [
+    14,
+    0,
+    6
+  ],
+  "c_m_dragonfly_jade_wing_r_02": [
+    0,
+    0,
+    6
+  ],
   "c_m_dreammonster_jaw": [
     12,
     9,
@@ -1335,6 +1345,11 @@
     0
   ],
   "c_m_trog_dino_loincloth_b": [
+    4,
+    2,
+    0
+  ],
+  "c_m_trog_dinoboss_loincloth_b": [
     4,
     2,
     0
@@ -2709,7 +2724,37 @@
     -1,
     0
   ],
+  "c_p_dinotamer_biker_satchel_strap": [
+    4,
+    0,
+    4
+  ],
+  "c_p_dinotamer_camo_satchel_strap": [
+    4,
+    0,
+    4
+  ],
   "c_p_dinotamer_lvl1_satchel_strap": [
+    4,
+    0,
+    4
+  ],
+  "c_p_dinotamer_lvl2_satchel_strap": [
+    4,
+    0,
+    4
+  ],
+  "c_p_dinotamer_lvl3_satchel_strap": [
+    4,
+    0,
+    4
+  ],
+  "c_p_dinotamer_net_thrown_01": [
+    11,
+    0,
+    12
+  ],
+  "c_p_dinotamer_steampunk_satchel_strap": [
     4,
     0,
     4
