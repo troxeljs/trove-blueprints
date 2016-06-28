@@ -919,6 +919,11 @@
     0,
     3
   ],
+  "c_m_biped_tail_dragon_pirate_skirt_f": [
+    4,
+    4,
+    1
+  ],
   "c_m_biped_tail_shark_caster_skirt_bl": [
     1,
     0,
@@ -2734,6 +2739,11 @@
     0,
     4
   ],
+  "c_p_dinotamer_dart_01": [
+    4,
+    0,
+    12
+  ],
   "c_p_dinotamer_lvl1_satchel_strap": [
     4,
     0,
@@ -2748,6 +2758,16 @@
     4,
     0,
     4
+  ],
+  "c_p_dinotamer_meat_01": [
+    9,
+    0,
+    4
+  ],
+  "c_p_dinotamer_net_01": [
+    11,
+    0,
+    11
   ],
   "c_p_dinotamer_net_thrown_01": [
     11,
@@ -7324,6 +7344,11 @@
     0,
     3
   ],
+  "deco_trophy_archeosaurus_basic": [
+    5,
+    0,
+    6
+  ],
   "deco_trophy_bat_01[tribe]": [
     5,
     0,
@@ -7345,6 +7370,11 @@
     6
   ],
   "deco_trophy_beetle_gold[tribe]": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_beetle_sabretooth": [
     5,
     0,
     6
@@ -7534,12 +7564,27 @@
     0,
     6
   ],
+  "deco_trophy_diatryma_basic": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_dimetrodon_basic": [
+    5,
+    0,
+    6
+  ],
   "deco_trophy_dragon_ice[tribe]": [
     5,
     0,
     6
   ],
   "deco_trophy_dragon_red[tribe]": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_dragonfly_jade": [
     5,
     0,
     6
@@ -8709,6 +8754,11 @@
     0,
     6
   ],
+  "deco_trophy_quetzalcoatlus_basic": [
+    5,
+    0,
+    6
+  ],
   "deco_trophy_radiant_caster[tribe]": [
     5,
     0,
@@ -8765,6 +8815,11 @@
     6
   ],
   "deco_trophy_saloonbot[tribe]": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_scissorhand_basic": [
     5,
     0,
     6
@@ -8875,6 +8930,56 @@
     6
   ],
   "deco_trophy_tortoise_smallbrown[tribe]": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trex_basic": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_triceratops_basic": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trog_ape": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trog_apeboss": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trog_bird": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trog_birdboss": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trog_dino": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trog_dinoboss": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trog_frog": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_trog_frogboss": [
     5,
     0,
     6
@@ -16889,6 +16994,11 @@
     -1,
     7
   ],
+  "item_gem_empowered_shard": [
+    5,
+    -2,
+    1
+  ],
   "item_key_adventure_adept": [
     3,
     -1,
@@ -16918,6 +17028,11 @@
     6,
     0,
     2
+  ],
+  "item_key_gem_gold": [
+    1,
+    -2,
+    7
   ],
   "item_key_gold": [
     7,
