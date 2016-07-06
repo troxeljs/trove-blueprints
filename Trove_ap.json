@@ -5629,6 +5629,36 @@
     0,
     6
   ],
+  "deco_dino_fossil_nautilus": [
+    4,
+    0,
+    6
+  ],
+  "deco_dino_fossil_trilobite": [
+    4,
+    0,
+    6
+  ],
+  "deco_dino_poster_meteor": [
+    5,
+    0,
+    6
+  ],
+  "deco_dino_spit_meat": [
+    5,
+    -2,
+    5
+  ],
+  "deco_dino_spit_support_l": [
+    -1,
+    0,
+    3
+  ],
+  "deco_dino_spit_support_r": [
+    5,
+    0,
+    3
+  ],
   "deco_dog_pemblock[eyeballprincessii]": [
     5,
     0,
@@ -16814,6 +16844,11 @@
     -2,
     6
   ],
+  "item_crafting_ore_meteor": [
+    6,
+    -3,
+    4
+  ],
   "item_crafting_ore_radiant": [
     2,
     -1,
@@ -17293,6 +17328,11 @@
     6,
     -1,
     7
+  ],
+  "item_recipe_dino": [
+    7,
+    0,
+    3
   ],
   "item_recipe_shadow": [
     7,

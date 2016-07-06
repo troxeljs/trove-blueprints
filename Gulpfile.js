@@ -109,11 +109,13 @@ function getChangedBps(){
         for (let i = 0; i < oldErrs.err.length; i++){
           oldSha256[oldErrs.err[i]] = null;
         }
+        log.info(`reimporting all ${oldErrs.err.length} blueprints with errors`);
       }
       if (argv.w){ // reimport bps with warnings
         for (let i = 0; i < oldErrs.warn.length; i++){
           oldSha256[oldErrs.warn[i]] = null;
         }
+        log.info(`reimporting all ${oldErrs.warn.length} blueprints with warnings`);
       }
     }
     let newSha256 = {};

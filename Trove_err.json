@@ -3,6 +3,7 @@
     "deco_trophy_boot_shadow_ui.blueprint"
   ],
   "warn": [
+    "c_mt_griffon_peregrine_head.blueprint",
     "c_p_candybarbarian_front_skirt.blueprint",
     "c_p_candybarbarian_hips.blueprint",
     "c_p_candybarbarian_licorice_torso.blueprint",
