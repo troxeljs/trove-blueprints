@@ -3244,6 +3244,16 @@
     4,
     7
   ],
+  "c_p_hair_dragontail[gadgetcat]": [
+    11,
+    3,
+    11
+  ],
+  "c_p_hair_dragontail[gadgetcat]_m": [
+    11,
+    3,
+    11
+  ],
   "c_p_hair_dreamheroine[gadgetcat]": [
     10,
     5,
@@ -3333,6 +3343,11 @@
     7,
     6,
     6
+  ],
+  "c_p_hair_hairbrained[nudal]": [
+    5,
+    -6,
+    5
   ],
   "c_p_hair_headphones[waffleboy]": [
     7,
@@ -3814,6 +3829,11 @@
     4,
     6
   ],
+  "c_p_hair_skullbeanie[ack0m3ga]": [
+    6,
+    4,
+    8
+  ],
   "c_p_hair_snaketails[gadgetcat]": [
     10,
     3,
@@ -3908,6 +3928,11 @@
     7,
     3,
     5
+  ],
+  "c_p_hair_twintails[eikouta]": [
+    10,
+    8,
+    9
   ],
   "c_p_hair_twospikes_sides[mruntitled]": [
     9,
@@ -4894,6 +4919,21 @@
     0,
     6
   ],
+  "deco_banner_dracolyte_bottom[knightlock]": [
+    5,
+    0,
+    6
+  ],
+  "deco_banner_dracolyte_mid[knightlock]": [
+    5,
+    0,
+    6
+  ],
+  "deco_banner_dracolyte_top[knightlock]": [
+    5,
+    0,
+    6
+  ],
   "deco_banner_dragon_bot[tribe]": [
     5,
     0,
@@ -5809,6 +5849,16 @@
     0,
     6
   ],
+  "deco_drake_master[skyrider3217]": [
+    5,
+    0,
+    6
+  ],
+  "deco_drake_neon[skyrider3217]": [
+    5,
+    0,
+    6
+  ],
   "deco_drink_01[tribe]": [
     2,
     0,
@@ -5818,6 +5868,11 @@
     3,
     0,
     4
+  ],
+  "deco_elderdrake_skythevirus": [
+    5,
+    0,
+    6
   ],
   "deco_fae_banner_trickster_bot[knightlock]": [
     5,
@@ -5841,6 +5896,11 @@
   ],
   "deco_fae_chair_plain[qoaleth]": [
     4,
+    0,
+    6
+  ],
+  "deco_fae_dustvials[narwiff]": [
+    5,
     0,
     6
   ],
@@ -6055,6 +6115,11 @@
     6
   ],
   "deco_frontier_washbasin[xeviar]": [
+    5,
+    0,
+    6
+  ],
+  "deco_gnome_chompski[monsterant]": [
     5,
     0,
     6
@@ -7024,6 +7089,16 @@
     0,
     5
   ],
+  "deco_shadow_statue_giant_bot[skythevirus]": [
+    4,
+    0,
+    6
+  ],
+  "deco_shadow_statue_giant_top[skythevirus]": [
+    5,
+    0,
+    6
+  ],
   "deco_shadow_table_invader[jusiv]": [
     5,
     0,
@@ -7078,6 +7153,11 @@
     4,
     0,
     2
+  ],
+  "deco_sign_pinata[woofbottoms]": [
+    5,
+    0,
+    6
   ],
   "deco_signpost_arrow[cretoriani]": [
     0,
@@ -7264,6 +7344,16 @@
     -2,
     6
   ],
+  "deco_table_citron[rajeeb]": [
+    5,
+    0,
+    6
+  ],
+  "deco_table_citron_mid[rajeeb]": [
+    5,
+    -11,
+    6
+  ],
   "deco_table_woodcorner[zap]": [
     5,
     0,
@@ -7420,6 +7510,11 @@
     6
   ],
   "deco_trophy_boneblade_01[tribe]": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_boot[xmarksit]": [
     5,
     0,
     6
@@ -10274,6 +10369,71 @@
     3,
     -6
   ],
+  "equipment_face_mask_028[xeof]": [
+    4,
+    2,
+    -6
+  ],
+  "equipment_face_mask_029[kot_manul]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_030[humpypants]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_031[decibhell]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_032[illiagorath]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_033[monsieurzero]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_034[asykura]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_035[b4ileys]": [
+    4,
+    4,
+    -6
+  ],
+  "equipment_face_mask_036[tomkar]": [
+    5,
+    2,
+    -6
+  ],
+  "equipment_face_mask_037[ghostlykoala]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_038[hirakashi]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_039[mew2ian]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_040[towerfall]": [
+    5,
+    4,
+    -6
+  ],
   "equipment_face_mask_3dglasses[hawanity]": [
     5,
     0,
@@ -10341,6 +10501,11 @@
   ],
   "equipment_face_mask_balejaws[brianvi]": [
     5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_bandage[cmsthepyro]": [
+    2,
     4,
     -6
   ],
@@ -10427,6 +10592,11 @@
   "equipment_face_mask_bonesnout[dave203]": [
     3,
     3,
+    -6
+  ],
+  "equipment_face_mask_bordoga[mrbk]": [
+    5,
+    4,
     -6
   ],
   "equipment_face_mask_bountyhunter[delvulria]": [
@@ -10860,6 +11030,11 @@
     -6
   ],
   "equipment_face_mask_gasmask_simple[tribe]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_gearface[redtacular]": [
     5,
     4,
     -6
@@ -11459,6 +11634,11 @@
     2,
     -6
   ],
+  "equipment_face_mask_powerstache[mashuneko]": [
+    5,
+    4,
+    -6
+  ],
   "equipment_face_mask_poxdoc_white[cretoriani]": [
     5,
     4,
@@ -11500,6 +11680,11 @@
     -6
   ],
   "equipment_face_mask_radbird[stedms]": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_raddual[coltb]": [
     5,
     4,
     -6
@@ -11739,6 +11924,11 @@
     4,
     -6
   ],
+  "equipment_face_mask_snowman[zakkerdoodle]": [
+    5,
+    4,
+    -6
+  ],
   "equipment_face_mask_somen_ancient[zendog]": [
     5,
     4,
@@ -11854,6 +12044,11 @@
     4,
     -6
   ],
+  "equipment_face_mask_statstare[lostinspace]": [
+    5,
+    4,
+    -6
+  ],
   "equipment_face_mask_steamgogs[scheurmuis]": [
     5,
     4,
@@ -11965,7 +12160,7 @@
     -6
   ],
   "equipment_face_mask_trader[humpypants]": [
-    6,
+    5,
     4,
     -6
   ],
@@ -12669,6 +12864,76 @@
     -1,
     4
   ],
+  "equipment_hat_009[gogestickcj]": [
+    7,
+    -7,
+    6
+  ],
+  "equipment_hat_010[lewtac]": [
+    8,
+    -7,
+    7
+  ],
+  "equipment_hat_011[salmolhado]": [
+    7,
+    -7,
+    4
+  ],
+  "equipment_hat_012[mappyt]": [
+    5,
+    -7,
+    4
+  ],
+  "equipment_hat_013[paullus]": [
+    5,
+    -7,
+    8
+  ],
+  "equipment_hat_014[aerg]": [
+    5,
+    -7,
+    4
+  ],
+  "equipment_hat_015[tonylemur]": [
+    5,
+    4,
+    8
+  ],
+  "equipment_hat_016[teamrocketgrunt]": [
+    10,
+    -7,
+    0
+  ],
+  "equipment_hat_017[stormblackwell]": [
+    10,
+    -7,
+    8
+  ],
+  "equipment_hat_018[aodahn]": [
+    8,
+    -7,
+    1
+  ],
+  "equipment_hat_019[shakeij]": [
+    10,
+    -7,
+    6
+  ],
+  "equipment_hat_020[anzy]": [
+    6,
+    -7,
+    4
+  ],
+  "equipment_hat_021[sugoitrash]": [
+    8,
+    -7,
+    0
+  ],
+  "equipment_hat_022[walyn]": [
+    6,
+    -7,
+    5
+  ],
   "equipment_hat_advenkitty[misztersoul]": [
     4,
     -7,
@@ -13008,6 +13273,11 @@
     8,
     -7,
     6
+  ],
+  "equipment_hat_cephidol[mirrorrim]": [
+    5,
+    -7,
+    4
   ],
   "equipment_hat_chapeau[mansage]": [
     10,
@@ -13463,6 +13733,11 @@
     10,
     -6,
     10
+  ],
+  "equipment_hat_frosty[anzy]": [
+    6,
+    -7,
+    4
   ],
   "equipment_hat_fruitbasket": [
     7,
@@ -13968,6 +14243,11 @@
     10,
     -7,
     6
+  ],
+  "equipment_hat_osseous[pandamonium2442]": [
+    5,
+    -7,
+    4
   ],
   "equipment_hat_outbox[netro]": [
     9,
@@ -15530,6 +15810,26 @@
     2
   ],
   "equipment_weapon_pistol_443[zephorise]": [
+    2,
+    10,
+    2
+  ],
+  "equipment_weapon_pistol_446[kickrazz]": [
+    3,
+    12,
+    0
+  ],
+  "equipment_weapon_pistol_459[almostnever]": [
+    2,
+    7,
+    2
+  ],
+  "equipment_weapon_pistol_462[onewingxvi]": [
+    2,
+    9,
+    2
+  ],
+  "equipment_weapon_pistol_467[cenarius]": [
     2,
     10,
     2
