@@ -1749,6 +1749,16 @@
     0,
     4
   ],
+  "c_mt_cycle_tech_arms": [
+    5,
+    0,
+    0
+  ],
+  "c_mt_cycle_tech_ui": [
+    8,
+    0,
+    18
+  ],
   "c_mt_cycle_unicycle_arms": [
     5,
     0,
@@ -2765,9 +2775,9 @@
     4
   ],
   "c_p_dinotamer_net_01": [
-    11,
+    24,
     0,
-    11
+    24
   ],
   "c_p_dinotamer_net_thrown_01": [
     11,
@@ -4008,11 +4018,6 @@
     7,
     14,
     11
-  ],
-  "c_p_ice_mage_mermaid_ice_chunk": [
-    11,
-    -28,
-    2
   ],
   "c_p_ice_mage_mermaid_ui[zoe]": [
     8,
@@ -10369,6 +10374,51 @@
     3,
     -6
   ],
+  "equipment_face_mask_019": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_020": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_021": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_022": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_023": [
+    5,
+    4,
+    -6
+  ],
+  "equipment_face_mask_024": [
+    5,
+    5,
+    -6
+  ],
+  "equipment_face_mask_025": [
+    5,
+    5,
+    -6
+  ],
+  "equipment_face_mask_026": [
+    5,
+    5,
+    -6
+  ],
+  "equipment_face_mask_027": [
+    5,
+    5,
+    -6
+  ],
   "equipment_face_mask_028[xeof]": [
     4,
     2,
@@ -12499,6 +12549,11 @@
     0,
     3
   ],
+  "equipment_gem_large_blue_01_dinotamer": [
+    6,
+    0,
+    3
+  ],
   "equipment_gem_large_blue_01_dracolyte": [
     6,
     0,
@@ -12570,6 +12625,11 @@
     3
   ],
   "equipment_gem_large_colorless_01_chloromancer": [
+    6,
+    0,
+    3
+  ],
+  "equipment_gem_large_colorless_01_dinotamer": [
     6,
     0,
     3
@@ -12649,6 +12709,11 @@
     0,
     3
   ],
+  "equipment_gem_large_red_01_dinotamer": [
+    6,
+    0,
+    3
+  ],
   "equipment_gem_large_red_01_dracolyte": [
     6,
     0,
@@ -12720,6 +12785,11 @@
     3
   ],
   "equipment_gem_large_yellow_01_chloromancer": [
+    6,
+    0,
+    3
+  ],
+  "equipment_gem_large_yellow_01_dinotamer": [
     6,
     0,
     3
@@ -12864,6 +12934,46 @@
     -1,
     4
   ],
+  "equipment_hat_001": [
+    6,
+    -7,
+    7
+  ],
+  "equipment_hat_002": [
+    9,
+    -7,
+    5
+  ],
+  "equipment_hat_003": [
+    7,
+    -7,
+    7
+  ],
+  "equipment_hat_004": [
+    7,
+    -7,
+    8
+  ],
+  "equipment_hat_005": [
+    5,
+    -7,
+    5
+  ],
+  "equipment_hat_006": [
+    6,
+    -7,
+    7
+  ],
+  "equipment_hat_007": [
+    5,
+    -7,
+    6
+  ],
+  "equipment_hat_008": [
+    7,
+    -7,
+    7
+  ],
   "equipment_hat_009[gogestickcj]": [
     7,
     -7,
@@ -12895,9 +13005,9 @@
     4
   ],
   "equipment_hat_015[tonylemur]": [
-    5,
     4,
-    8
+    -7,
+    7
   ],
   "equipment_hat_016[teamrocketgrunt]": [
     10,
