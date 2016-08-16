@@ -17059,6 +17059,11 @@
     -1,
     12
   ],
+  "item_box_daily": [
+    9,
+    0,
+    7
+  ],
   "item_box_gem_all_01": [
     11,
     -1,
@@ -17167,6 +17172,11 @@
   "item_clubcard": [
     6,
     -3,
+    2
+  ],
+  "item_coin_dragon_mega": [
+    8,
+    0,
     2
   ],
   "item_crafting_bleachedbone": [
@@ -17429,6 +17439,11 @@
     -1,
     4
   ],
+  "item_fluxcannister_mega": [
+    8,
+    0,
+    8
+  ],
   "item_gem_booster_02": [
     7,
     0,
@@ -17523,6 +17538,11 @@
     7,
     0,
     8
+  ],
+  "item_pinata_mega": [
+    4,
+    0,
+    12
   ],
   "item_plantseed_block_blue": [
     3,
