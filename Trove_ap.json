@@ -4924,7 +4924,7 @@
     0,
     6
   ],
-  "deco_banner_dracolyte_bottom[knightlock]": [
+  "deco_banner_dracolyte_bot[knightlock]": [
     5,
     0,
     6
@@ -5854,6 +5854,11 @@
     0,
     6
   ],
+  "deco_drake_elder[skythevirus]": [
+    5,
+    0,
+    6
+  ],
   "deco_drake_master[skyrider3217]": [
     5,
     0,
@@ -5873,11 +5878,6 @@
     3,
     0,
     4
-  ],
-  "deco_elderdrake_skythevirus": [
-    5,
-    0,
-    6
   ],
   "deco_fae_banner_trickster_bot[knightlock]": [
     5,
@@ -8825,6 +8825,11 @@
     6
   ],
   "deco_trophy_pvp_chloromancer": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_pvp_dinotamer": [
     5,
     0,
     6
