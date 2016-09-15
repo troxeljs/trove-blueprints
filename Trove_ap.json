@@ -16019,6 +16019,16 @@
     0,
     1
   ],
+  "equipment_wings_dragonfly_01": [
+    9,
+    -3,
+    1
+  ],
+  "equipment_wings_flower_white_01": [
+    7,
+    -1,
+    1
+  ],
   "equipment_wings_gold_mastery_01": [
     7,
     -4,
@@ -16102,6 +16112,11 @@
   "equipment_wings_thunderhead_01": [
     7,
     -2,
+    1
+  ],
+  "equipment_wings_water_01": [
+    7,
+    0,
     1
   ],
   "equipment_wings_xeroline": [
