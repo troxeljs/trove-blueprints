@@ -589,6 +589,21 @@
     -4,
     -4
   ],
+  "c_c_biped_turtle_overrated_crown": [
+    2,
+    0,
+    2
+  ],
+  "c_c_biped_turtle_overrated_monocle": [
+    -2,
+    3,
+    1
+  ],
+  "c_c_biped_turtle_overrated_ui": [
+    10,
+    0,
+    10
+  ],
   "c_c_bird_kiwi_ui[kiwibird]": [
     4,
     0,
@@ -653,6 +668,11 @@
     4,
     -1,
     4
+  ],
+  "c_c_dancepad_sinata_ui": [
+    9,
+    0,
+    9
   ],
   "c_c_dragon_baby_beard_ui": [
     7,
@@ -878,6 +898,16 @@
     3,
     1,
     0
+  ],
+  "c_c_turtle_ghaze_shades": [
+    3,
+    2,
+    3
+  ],
+  "c_c_turtle_ghaze_ui": [
+    5,
+    0,
+    12
   ],
   "c_m_ability_sawblade": [
     10,
@@ -1429,6 +1459,26 @@
     4,
     5
   ],
+  "c_mt_ball_catvamp_tail_01": [
+    6,
+    0,
+    0
+  ],
+  "c_mt_ball_catvamp_tail_02": [
+    6,
+    0,
+    1
+  ],
+  "c_mt_ball_catvamp_tail_03": [
+    6,
+    0,
+    2
+  ],
+  "c_mt_ball_catvamp_tail_04": [
+    6,
+    0,
+    2
+  ],
   "c_mt_ball_eye_tail_01": [
     6,
     0,
@@ -1468,6 +1518,21 @@
     6,
     -1,
     4
+  ],
+  "c_mt_ball_ghost_ui": [
+    8,
+    0,
+    6
+  ],
+  "c_mt_board_broombat_ui": [
+    15,
+    0,
+    19
+  ],
+  "c_mt_board_broomghost_ui": [
+    12,
+    0,
+    19
   ],
   "c_mt_board_runetome_pod_l": [
     6,
@@ -1759,6 +1824,26 @@
     0,
     4
   ],
+  "c_mt_cycle_echowave_arms": [
+    6,
+    0,
+    1
+  ],
+  "c_mt_cycle_echowave_booster_l": [
+    4,
+    2,
+    4
+  ],
+  "c_mt_cycle_echowave_booster_r": [
+    0,
+    2,
+    4
+  ],
+  "c_mt_cycle_echowave_ui[extrysgo]": [
+    8,
+    -13,
+    18
+  ],
   "c_mt_cycle_tech_arms": [
     5,
     0,
@@ -1838,6 +1923,21 @@
     8,
     1,
     28
+  ],
+  "c_mt_dragon_dino_jaw": [
+    1,
+    2,
+    1
+  ],
+  "c_mt_dragon_dino_wing_l_01": [
+    21,
+    2,
+    5
+  ],
+  "c_mt_dragon_dino_wing_r_01": [
+    -2,
+    2,
+    5
   ],
   "c_mt_dragon_gemred_ui": [
     5,
@@ -2089,6 +2189,16 @@
     3,
     3
   ],
+  "c_mt_magrail_dance_br_arm_bl": [
+    1,
+    -2,
+    17
+  ],
+  "c_mt_magrail_dance_br_arm_br": [
+    0,
+    -2,
+    17
+  ],
   "c_mt_magrail_dance_metal_jaw": [
     4,
     1,
@@ -2134,6 +2244,11 @@
     0,
     18
   ],
+  "c_mt_pinata_centaur_ui[datguy]": [
+    4,
+    -3,
+    7
+  ],
   "c_mt_platypus_fae_ui[qoaleth]": [
     6,
     0,
@@ -2173,6 +2288,11 @@
     12,
     -3,
     -2
+  ],
+  "c_mt_raptor_birdbr_ui": [
+    3,
+    0,
+    7
   ],
   "c_mt_raptor_birdchaos_tail_02": [
     6,
@@ -2374,6 +2494,16 @@
     0,
     18
   ],
+  "c_mt_warhorse_autumnkami_banner_br_01": [
+    5,
+    -2,
+    6
+  ],
+  "c_mt_warhorse_autumnkami_ui[fizzinc]": [
+    10,
+    -8,
+    15
+  ],
   "c_mt_warhorse_bullglacial_banner_bl_01": [
     -2,
     0,
@@ -2569,6 +2699,26 @@
     0,
     9
   ],
+  "c_mt_warhorse_polarbear_banner_bl_01": [
+    -2,
+    2,
+    2
+  ],
+  "c_mt_warhorse_polarbear_banner_fl_01": [
+    -1,
+    10,
+    -3
+  ],
+  "c_mt_warhorse_polarbear_neck_01": [
+    6,
+    11,
+    -9
+  ],
+  "c_mt_warhorse_polarbear_ui[screamheart]": [
+    6,
+    11,
+    -9
+  ],
   "c_mt_warhorse_revenant_body_01": [
     4,
     7,
@@ -2593,6 +2743,51 @@
     4,
     3,
     4
+  ],
+  "c_mt_warhorse_springkami_banner_br_01": [
+    5,
+    -2,
+    6
+  ],
+  "c_mt_warhorse_springkami_ui[fizzinc]": [
+    10,
+    -8,
+    15
+  ],
+  "c_mt_warhorse_summerkami_banner_br_01": [
+    5,
+    -2,
+    6
+  ],
+  "c_mt_warhorse_summerkami_shoulder_l": [
+    2,
+    4,
+    4
+  ],
+  "c_mt_warhorse_summerkami_ui[fizzinc]": [
+    10,
+    -8,
+    15
+  ],
+  "c_mt_warhorse_winterkami_banner_br_01": [
+    5,
+    -2,
+    6
+  ],
+  "c_mt_warhorse_winterkami_shoulder_l": [
+    0,
+    4,
+    4
+  ],
+  "c_mt_warhorse_winterkami_shoulder_r": [
+    0,
+    4,
+    4
+  ],
+  "c_mt_warhorse_winterkami_ui[fizzinc]": [
+    10,
+    -3,
+    14
   ],
   "c_p_adventurer_basic_bawkbomb": [
     8,
@@ -8974,6 +9169,11 @@
     0,
     6
   ],
+  "deco_trophy_sarcosuchus": [
+    5,
+    0,
+    6
+  ],
   "deco_trophy_scissorhand_basic": [
     5,
     0,
@@ -15299,6 +15499,81 @@
     4,
     7
   ],
+  "equipment_helm_full_bulldog": [
+    9,
+    4,
+    8
+  ],
+  "equipment_helm_full_cat_black": [
+    8,
+    4,
+    7
+  ],
+  "equipment_helm_full_cat_black_t": [
+    8,
+    4,
+    7
+  ],
+  "equipment_helm_full_deer": [
+    11,
+    4,
+    11
+  ],
+  "equipment_helm_full_frog": [
+    9,
+    4,
+    8
+  ],
+  "equipment_helm_full_frog_t": [
+    9,
+    4,
+    8
+  ],
+  "equipment_helm_full_otter": [
+    9,
+    4,
+    7
+  ],
+  "equipment_helm_full_pig": [
+    9,
+    5,
+    8
+  ],
+  "equipment_helm_full_raccoon": [
+    11,
+    5,
+    8
+  ],
+  "equipment_helm_full_raccoon_t": [
+    11,
+    5,
+    8
+  ],
+  "equipment_helm_full_rooster": [
+    7,
+    5,
+    8
+  ],
+  "equipment_helm_full_shark": [
+    9,
+    4,
+    10
+  ],
+  "equipment_helm_full_toucan": [
+    7,
+    4,
+    6
+  ],
+  "equipment_helm_full_toucan_s": [
+    7,
+    4,
+    6
+  ],
+  "equipment_helm_full_toucan_t": [
+    7,
+    4,
+    6
+  ],
   "equipment_helm_grillhead": [
     8,
     -2,
@@ -16684,6 +16959,11 @@
     0,
     3
   ],
+  "gm_prop_socket_8": [
+    5,
+    0,
+    3
+  ],
   "hat_eyepatch": [
     2,
     -2,
@@ -17109,6 +17389,11 @@
     0,
     7
   ],
+  "item_box_daily_halloween": [
+    9,
+    0,
+    7
+  ],
   "item_box_gem_all_01": [
     11,
     -1,
@@ -17169,6 +17454,16 @@
     -2,
     11
   ],
+  "item_box_halloween_mystery_orange": [
+    9,
+    0,
+    6
+  ],
+  "item_box_halloween_mystery_purple": [
+    9,
+    0,
+    6
+  ],
   "item_box_mining": [
     6,
     0,
@@ -17219,6 +17514,11 @@
     -3,
     2
   ],
+  "item_clubcard_storage": [
+    7,
+    -2,
+    1
+  ],
   "item_coin_dragon_mega": [
     8,
     0,
@@ -17252,6 +17552,11 @@
   "item_crafting_dragonfang": [
     2,
     -2,
+    3
+  ],
+  "item_crafting_eggpiece_dragon_gemcolorless": [
+    4,
+    -3,
     3
   ],
   "item_crafting_eye": [
@@ -17418,6 +17723,11 @@
     4,
     -4,
     4
+  ],
+  "item_dragon_essence_deepsea": [
+    6,
+    -2,
+    3
   ],
   "item_dragonsoul_beard": [
     7,
@@ -18368,6 +18678,11 @@
     7,
     0,
     1
+  ],
+  "item_storageclubcard": [
+    6,
+    -3,
+    2
   ],
   "item_unlock_recipe": [
     5,
