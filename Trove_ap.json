@@ -16004,6 +16004,11 @@
     4,
     6
   ],
+  "equipment_helm_ice_mage_banner[celeress]": [
+    8,
+    4,
+    7
+  ],
   "equipment_helm_ice_mage_disciple[friedsushi]": [
     14,
     2,
@@ -16154,6 +16159,11 @@
     8,
     12
   ],
+  "equipment_helm_pirate_ratking": [
+    10,
+    4,
+    5
+  ],
   "equipment_helm_pirate_scavenger[solipso]": [
     7,
     4,
@@ -16163,11 +16173,6 @@
     8,
     4,
     8
-  ],
-  "equipment_helm_piratecaptain_ratking": [
-    10,
-    4,
-    5
   ],
   "equipment_helm_pumpkin": [
     8,
@@ -16207,7 +16212,7 @@
   "equipment_helm_shadowhunter_royalguard[rosain]": [
     6,
     4,
-    8
+    7
   ],
   "equipment_helm_shadowhunter_shadowranger[bahamuth]": [
     9,
@@ -16714,6 +16719,11 @@
     0,
     6
   ],
+  "equipment_weapon_snowball_magic": [
+    5,
+    0,
+    6
+  ],
   "equipment_weapon_staff_066[jacobthecuddler]": [
     3,
     3,
@@ -16764,7 +16774,7 @@
     -3,
     1
   ],
-  "equipment_wings_choko_01": [
+  "equipment_wings_choko_01[datguy]": [
     7,
     0,
     1
@@ -17524,6 +17534,11 @@
     0,
     12
   ],
+  "interactive_crafting_bench_chaos": [
+    10,
+    0,
+    10
+  ],
   "interactive_crafting_bench_desert": [
     10,
     0,
@@ -17869,6 +17884,11 @@
     0,
     7
   ],
+  "item_box_daily_christmas": [
+    10,
+    0,
+    8
+  ],
   "item_box_daily_halloween": [
     9,
     0,
@@ -18014,6 +18034,11 @@
     -1,
     5
   ],
+  "item_crafting_chaoscore": [
+    5,
+    -1,
+    5
+  ],
   "item_crafting_chestnut": [
     4,
     -3,
@@ -18038,6 +18063,11 @@
     4,
     -3,
     3
+  ],
+  "item_crafting_eggshard": [
+    2,
+    -3,
+    2
   ],
   "item_crafting_eye": [
     4,
@@ -18124,6 +18154,11 @@
     -1,
     2
   ],
+  "item_crafting_shadowcog": [
+    6,
+    -1,
+    1
+  ],
   "item_crafting_shadowkey_fragment": [
     3,
     -4,
@@ -18208,6 +18243,11 @@
     6,
     -2,
     3
+  ],
+  "item_dragon_essence_pirate": [
+    5,
+    0,
+    4
   ],
   "item_dragonsoul_beard": [
     7,
