@@ -654,6 +654,31 @@
     0,
     14
   ],
+  "c_c_butterfly_solar_ui": [
+    18,
+    0,
+    15
+  ],
+  "c_c_butterfly_solar_wing_l_01": [
+    14,
+    1,
+    0
+  ],
+  "c_c_butterfly_solar_wing_l_02": [
+    11,
+    1,
+    12
+  ],
+  "c_c_butterfly_solar_wing_r_01": [
+    0,
+    1,
+    0
+  ],
+  "c_c_butterfly_solar_wing_r_02": [
+    0,
+    1,
+    12
+  ],
   "c_c_butterfly_solsat_ui": [
     16,
     0,
@@ -751,11 +776,6 @@
   ],
   "c_c_goat_goatguud_ui[morgana]": [
     7,
-    0,
-    18
-  ],
-  "c_c_goat_scapes_ui[scapes]": [
-    6,
     0,
     18
   ],
@@ -973,6 +993,11 @@
     3,
     1,
     0
+  ],
+  "c_c_rooster_lny2017_ui[skyrider3217]": [
+    6,
+    0,
+    9
   ],
   "c_c_seahorse_violet_ui[ylva]": [
     4,
@@ -1464,6 +1489,16 @@
     3,
     4
   ],
+  "c_m_soulhunter_knight_basic_jaw": [
+    7,
+    2,
+    1
+  ],
+  "c_m_soulhunter_knight_basic_visor": [
+    8,
+    5,
+    1
+  ],
   "c_m_soulhunter_toad_chain_01": [
     2,
     3,
@@ -1869,6 +1904,16 @@
     -44,
     22
   ],
+  "c_mt_boat_small_maki": [
+    23,
+    7,
+    30
+  ],
+  "c_mt_boat_small_maki_ui": [
+    22,
+    -1,
+    35
+  ],
   "c_mt_boat_small_starter": [
     23,
     8,
@@ -2118,6 +2163,16 @@
     12,
     -1,
     19
+  ],
+  "c_mt_cycle_quad_ramen_wheel_br": [
+    14,
+    4,
+    4
+  ],
+  "c_mt_cycle_quad_ramen_wheel_fr": [
+    14,
+    4,
+    4
   ],
   "c_mt_cycle_quad_red_arms": [
     5,
@@ -2629,6 +2684,11 @@
     0,
     8
   ],
+  "c_mt_raptor_bluebotstrider_ui": [
+    2,
+    0,
+    6
+  ],
   "c_mt_raptor_budgie_blue_jaw": [
     2,
     -2,
@@ -2658,6 +2718,11 @@
     -2,
     3,
     2
+  ],
+  "c_mt_raptor_raiju_ui": [
+    5,
+    0,
+    7
   ],
   "c_mt_raptor_turkeyroast_ui": [
     9,
@@ -3264,6 +3329,16 @@
     0,
     4
   ],
+  "c_p_candybarbarian_deepsea_torso": [
+    4,
+    4,
+    7
+  ],
+  "c_p_candybarbarian_deepsea_ui[mew2ian]": [
+    10,
+    7,
+    10
+  ],
   "c_p_candybarbarian_icecream_ui": [
     10,
     0,
@@ -3302,6 +3377,16 @@
   "c_p_candybarbarian_moonsilver_ui": [
     11,
     0,
+    4
+  ],
+  "c_p_candybarbarian_shogun_cone": [
+    9,
+    2,
+    1
+  ],
+  "c_p_candybarbarian_shogun_ui[teekaym]": [
+    11,
+    -40,
     4
   ],
   "c_p_candybarbarian_ui": [
@@ -3439,6 +3524,41 @@
     0,
     12
   ],
+  "c_p_dinotamer_diamond_dart_01": [
+    3,
+    0,
+    9
+  ],
+  "c_p_dinotamer_diamond_net_01": [
+    22,
+    0,
+    23
+  ],
+  "c_p_dinotamer_diamond_net_thrown_01": [
+    11,
+    0,
+    11
+  ],
+  "c_p_dinotamer_dragon_meat_01": [
+    9,
+    0,
+    4
+  ],
+  "c_p_dinotamer_dragon_net_01": [
+    21,
+    0,
+    21
+  ],
+  "c_p_dinotamer_dragon_net_thrown_01": [
+    11,
+    0,
+    12
+  ],
+  "c_p_dinotamer_dragon_satchel_strap": [
+    4,
+    -1,
+    4
+  ],
   "c_p_dinotamer_lvl1_satchel_strap": [
     4,
     0,
@@ -3474,6 +3594,61 @@
     0,
     12
   ],
+  "c_p_dinotamer_pinata_net_01": [
+    24,
+    -3,
+    24
+  ],
+  "c_p_dinotamer_pinata_net_thrown_01": [
+    11,
+    -3,
+    12
+  ],
+  "c_p_dinotamer_pinata_ultimate_arm_l": [
+    2,
+    3,
+    -3
+  ],
+  "c_p_dinotamer_pinata_ultimate_arm_r": [
+    1,
+    3,
+    -3
+  ],
+  "c_p_dinotamer_pinata_ultimate_leg_l": [
+    1,
+    11,
+    2
+  ],
+  "c_p_dinotamer_pinata_ultimate_leg_r": [
+    2,
+    11,
+    2
+  ],
+  "c_p_dinotamer_shadow_dart_01": [
+    4,
+    0,
+    12
+  ],
+  "c_p_dinotamer_shadow_meat_01": [
+    4,
+    -2,
+    4
+  ],
+  "c_p_dinotamer_shadow_net_01": [
+    24,
+    0,
+    24
+  ],
+  "c_p_dinotamer_shadow_net_thrown_01": [
+    11,
+    0,
+    12
+  ],
+  "c_p_dinotamer_shadow_satchel_strap": [
+    4,
+    1,
+    4
+  ],
   "c_p_dinotamer_steampunk_satchel_strap": [
     4,
     0,
@@ -3508,6 +3683,26 @@
     8,
     0,
     4
+  ],
+  "c_p_dracolyte_fruit_ult_l_wing_01": [
+    19,
+    9,
+    1
+  ],
+  "c_p_dracolyte_fruit_ult_l_wing_02": [
+    18,
+    24,
+    1
+  ],
+  "c_p_dracolyte_fruit_ult_r_wing_01": [
+    1,
+    9,
+    1
+  ],
+  "c_p_dracolyte_fruit_ult_r_wing_02": [
+    0,
+    24,
+    1
   ],
   "c_p_dracolyte_lvl2_ui": [
     8,
@@ -3634,6 +3829,31 @@
     0,
     4
   ],
+  "c_p_dracolyte_pinata_l_robe_02": [
+    1,
+    0,
+    2
+  ],
+  "c_p_dracolyte_pinata_pet_head": [
+    3,
+    11,
+    8
+  ],
+  "c_p_dracolyte_pinata_pet_jaw": [
+    1,
+    1,
+    -1
+  ],
+  "c_p_dracolyte_pinata_r_robe_02": [
+    0,
+    0,
+    2
+  ],
+  "c_p_dracolyte_pinata_ui[3motions,gaugekelley1]": [
+    9,
+    0,
+    5
+  ],
   "c_p_dracolyte_plumfairy_ui": [
     8,
     0,
@@ -3749,6 +3969,11 @@
     0,
     6
   ],
+  "c_p_faetrickster_chaos_ui[skyrider3217]": [
+    9,
+    0,
+    9
+  ],
   "c_p_gun_slinger_belt": [
     3,
     0,
@@ -3768,6 +3993,11 @@
     6,
     0,
     4
+  ],
+  "c_p_gun_slinger_jetrider_cape_01": [
+    4,
+    7,
+    6
   ],
   "c_p_gun_slinger_lvl2_belt": [
     3,
@@ -4859,6 +5089,11 @@
     0,
     5
   ],
+  "c_p_knight_sultan_ui[anibaal]": [
+    9,
+    0,
+    4
+  ],
   "c_p_knight_ui": [
     9,
     0,
@@ -4877,6 +5112,16 @@
   "c_p_lunarlancer_darkreflection_head": [
     9,
     4,
+    7
+  ],
+  "c_p_lunarlancer_deepsea_ui[3motions]": [
+    11,
+    0,
+    7
+  ],
+  "c_p_lunarlancer_deepsea_ultimate_head": [
+    13,
+    5,
     7
   ],
   "c_p_lunarlancer_draccoon_ui[destral]": [
@@ -4903,6 +5148,16 @@
     7,
     -6,
     4
+  ],
+  "c_p_lunarlancer_golden_ui[galeneos]": [
+    12,
+    0,
+    19
+  ],
+  "c_p_lunarlancer_golden_ultimate_head": [
+    7,
+    7,
+    11
   ],
   "c_p_lunarlancer_imp_transform_head": [
     9,
@@ -4979,6 +5234,11 @@
     0,
     3
   ],
+  "c_p_neon_ninja_sonic_ui[cryogx]": [
+    8,
+    0,
+    3
+  ],
   "c_p_neon_ninja_store_lightred_ui": [
     8,
     0,
@@ -5003,6 +5263,11 @@
     13,
     0,
     8
+  ],
+  "c_p_pirate_arcanium_pet_ui": [
+    11,
+    0,
+    5
   ],
   "c_p_pirate_captain_ratking_ui": [
     7,
@@ -5104,6 +5369,16 @@
     -12,
     3
   ],
+  "c_p_pirate_space_pet_ui": [
+    13,
+    1,
+    7
+  ],
+  "c_p_pirate_space_ui[ainogommon]": [
+    7,
+    0,
+    3
+  ],
   "c_p_pirate_treasuretrovian_turret_basic_blastshield_c_01": [
     5,
     0,
@@ -5133,6 +5408,31 @@
     13,
     -1,
     10
+  ],
+  "c_p_quetzalcoatlus_dinotamerpet_pinata_leg_l": [
+    1,
+    5,
+    1
+  ],
+  "c_p_quetzalcoatlus_dinotamerpet_pinata_leg_r": [
+    1,
+    5,
+    1
+  ],
+  "c_p_scissorhand_dinotamerpet_dragon_head": [
+    12,
+    4,
+    5
+  ],
+  "c_p_scissorhand_dinotamerpet_dragon_jaw": [
+    9,
+    2,
+    0
+  ],
+  "c_p_scissorhand_dinotamerpet_dragon_neck_01": [
+    9,
+    3,
+    5
   ],
   "c_p_scissorhand_dinotamerpet_tundra_abdomen": [
     5,
@@ -5172,6 +5472,46 @@
   "c_p_shadow_hunter_nutcracker_ui": [
     6,
     0,
+    4
+  ],
+  "c_p_shadow_hunter_plasma_foot_l": [
+    2,
+    1,
+    -1
+  ],
+  "c_p_shadow_hunter_plasma_foot_r": [
+    0,
+    1,
+    -1
+  ],
+  "c_p_shadow_hunter_plasma_ui[jusiv]": [
+    7,
+    0,
+    5
+  ],
+  "c_p_shadow_hunter_rosewood_cape_l_02": [
+    0,
+    2,
+    2
+  ],
+  "c_p_shadow_hunter_rosewood_cape_l_03": [
+    0,
+    2,
+    2
+  ],
+  "c_p_shadow_hunter_rosewood_cape_r_02": [
+    1,
+    2,
+    2
+  ],
+  "c_p_shadow_hunter_rosewood_cape_r_03": [
+    1,
+    2,
+    2
+  ],
+  "c_p_shadow_hunter_rosewood_ui[moonpetals]": [
+    6,
+    -15,
     4
   ],
   "c_p_shadow_hunter_royalguard_shoulder_l": [
@@ -5288,6 +5628,31 @@
     9,
     8,
     6
+  ],
+  "c_p_spirit_tank_spectre_time_cape": [
+    12,
+    2,
+    7
+  ],
+  "c_p_spirit_tank_spectre_time_head": [
+    3,
+    -4,
+    5
+  ],
+  "c_p_spirit_tank_spectre_time_jaw": [
+    3,
+    1,
+    3
+  ],
+  "c_p_spirit_tank_time_cape_top_l": [
+    -3,
+    3,
+    0
+  ],
+  "c_p_spirit_tank_time_cape_top_r": [
+    4,
+    3,
+    0
   ],
   "c_p_tomb_raiser_banshee_basic_cape": [
     8,
@@ -8375,6 +8740,11 @@
     6
   ],
   "deco_trophy_beetle_spring[tribe]": [
+    5,
+    0,
+    6
+  ],
+  "deco_trophy_biped_shadow_armored_01": [
     5,
     0,
     6
@@ -15379,6 +15749,11 @@
     -7,
     3
   ],
+  "equipment_hat_pirate_arcanium[magicmate]": [
+    10,
+    1,
+    10
+  ],
   "equipment_hat_pirate_murky[dyzfunctional]": [
     9,
     -7,
@@ -16134,6 +16509,16 @@
     5,
     6
   ],
+  "equipment_helm_candybarbarian_deepsea[mew2ian]": [
+    8,
+    4,
+    5
+  ],
+  "equipment_helm_candybarbarian_heart[lippylapras]": [
+    7,
+    4,
+    6
+  ],
   "equipment_helm_candybarbarian_infineon[screamheart]": [
     7,
     4,
@@ -16148,6 +16533,11 @@
     11,
     4,
     6
+  ],
+  "equipment_helm_candybarbarian_shogun[teekaym]": [
+    10,
+    3,
+    9
   ],
   "equipment_helm_candybarbarian_skull[astrick]": [
     6,
@@ -16164,6 +16554,11 @@
     4,
     8
   ],
+  "equipment_helm_chloromancer_plague[galeneos]": [
+    9,
+    4,
+    10
+  ],
   "equipment_helm_comichero[kukui]": [
     7,
     4,
@@ -16179,9 +16574,24 @@
     4,
     6
   ],
+  "equipment_helm_dinotamer_diamond[anibaal]": [
+    8,
+    3,
+    8
+  ],
+  "equipment_helm_dinotamer_pinata[anibaal]": [
+    6,
+    4,
+    6
+  ],
   "equipment_helm_dinotamer_tundra[ainogommon]": [
     8,
     5,
+    7
+  ],
+  "equipment_helm_dinotamerpet_shadow[zeptimus]": [
+    7,
+    4,
     7
   ],
   "equipment_helm_draccoon[destral]": [
@@ -16199,10 +16609,20 @@
     4,
     7
   ],
+  "equipment_helm_dracolyte_fruit[ainogommon]": [
+    8,
+    3,
+    7
+  ],
   "equipment_helm_dracolyte_mecha[screamheart]": [
     9,
     4,
     7
+  ],
+  "equipment_helm_dracolyte_pinata[gaugekelley1]": [
+    7,
+    5,
+    8
   ],
   "equipment_helm_dracolyte_plumfairy": [
     9,
@@ -16263,6 +16683,16 @@
     8,
     6,
     10
+  ],
+  "equipment_helm_faetrickster_chaos[skyrider3217]": [
+    10,
+    4,
+    8
+  ],
+  "equipment_helm_faetrickster_spring[anibaal]": [
+    7,
+    5,
+    7
   ],
   "equipment_helm_football[stanleycuberick]": [
     10,
@@ -16409,6 +16839,11 @@
     4,
     11
   ],
+  "equipment_helm_gunslinger_jetrider[ainogommon]": [
+    8,
+    4,
+    9
+  ],
   "equipment_helm_halloween_zombie": [
     7,
     4,
@@ -16479,10 +16914,25 @@
     4,
     6
   ],
+  "equipment_helm_knight_jfestival": [
+    6,
+    -3,
+    6
+  ],
   "equipment_helm_knight_platinum[minetechniker]": [
     7,
     4,
     6
+  ],
+  "equipment_helm_knight_soulhunter": [
+    8,
+    4,
+    7
+  ],
+  "equipment_helm_knight_sultan[anibaal]": [
+    8,
+    2,
+    7
   ],
   "equipment_helm_ladybug": [
     8,
@@ -16494,10 +16944,20 @@
     4,
     8
   ],
+  "equipment_helm_lunarlancer_deepsea[3motions]": [
+    10,
+    5,
+    7
+  ],
   "equipment_helm_lunarlancer_duskrider[chellean]": [
     8,
     4,
     8
+  ],
+  "equipment_helm_lunarlancer_golden[galeneos]": [
+    7,
+    4,
+    10
   ],
   "equipment_helm_lunarlancer_imp": [
     8,
@@ -16529,9 +16989,19 @@
     4,
     7
   ],
+  "equipment_helm_neonninja_anubis[galeneos]": [
+    7,
+    4,
+    7
+  ],
   "equipment_helm_neonninja_reboot[dusty_mustard]": [
     6,
     4,
+    6
+  ],
+  "equipment_helm_neonninja_sonic[cryogx]": [
+    8,
+    5,
     6
   ],
   "equipment_helm_neonstroke[tribalflame]": [
@@ -16604,6 +17074,11 @@
     4,
     8
   ],
+  "equipment_helm_pirate_space[ainogommon]": [
+    10,
+    6,
+    11
+  ],
   "equipment_helm_pumpkin": [
     8,
     4,
@@ -16664,6 +17139,11 @@
     4,
     8
   ],
+  "equipment_helm_shadowhunter_plasma[jusiv]": [
+    11,
+    4,
+    11
+  ],
   "equipment_helm_shadowhunter_royalguard[rosain]": [
     6,
     4,
@@ -16688,6 +17168,11 @@
     12,
     4,
     11
+  ],
+  "equipment_helm_spirittank_time[3motions]": [
+    7,
+    4,
+    7
   ],
   "equipment_helm_spring_001": [
     8,
@@ -17302,6 +17787,11 @@
   "equipment_wings_lunar_01[milambit]": [
     7,
     -3,
+    1
+  ],
+  "equipment_wings_magus_01[galeneos]": [
+    7,
+    0,
     1
   ],
   "equipment_wings_mastery_01": [
@@ -18179,6 +18669,11 @@
     -3,
     7
   ],
+  "item_aura_flower_01": [
+    7,
+    0,
+    8
+  ],
   "item_aura_heart_01": [
     7,
     -2,
@@ -18499,6 +18994,11 @@
     -1,
     5
   ],
+  "item_crafting_chaoscore_mega": [
+    7,
+    0,
+    7
+  ],
   "item_crafting_chestnut": [
     4,
     -3,
@@ -18674,7 +19174,37 @@
     -1,
     7
   ],
+  "item_crafting_sunspark": [
+    7,
+    -1,
+    3
+  ],
+  "item_crafting_talisman_cat": [
+    7,
+    0,
+    6
+  ],
+  "item_crafting_talisman_centaur": [
+    7,
+    0,
+    6
+  ],
+  "item_crafting_talisman_corgi": [
+    7,
+    0,
+    6
+  ],
   "item_crafting_talisman_griffon": [
+    7,
+    0,
+    6
+  ],
+  "item_crafting_talisman_llama": [
+    7,
+    0,
+    6
+  ],
+  "item_crafting_talisman_shmeep": [
     7,
     0,
     6
